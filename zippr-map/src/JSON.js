@@ -1,206 +1,282 @@
 export const jsonStructure = [
   {
+    "id": 101,
     "City": "Kurnool",
     "District": "Kurnool",
     "College": "Pullareddy Engineering College",
     "Student": "Rakesh",
-    "Joining Date": "22/2/2019"
+    "JoiningDate": "22/2/2019"
   },
   {
+    "id": 102,
     "City": "Gooty",
     "District": "Ananthapur",
     "College": "Saint Mary Degree College",
     "Student": "Mouli",
-    "Joining Date": "25/2/2019"
+    "JoiningDate": "25/2/2019"
   },
   {
+    "id": 103,
     "City": "Allagada",
     "District": "Kurnool",
     "College": "Government Degree College",
     "Student": "Ravi",
-    "Joining Date": "24/2/2019"
+    "JoiningDate": "24/2/2019"
   },
   {
+    "id": 104,
     "City": "Dhone",
     "District": "Kurnool",
     "College": "Donbasco Engineering College",
     "Student": "Ramesh",
-    "Joining Date": "26/2/2019"
+    "JoiningDate": "26/2/2019"
   },
   {
+    "id": 105,
     "City": "Ananthapur",
     "District": "Ananthapur",
     "College": "Kotla Engineering College",
     "Student": "Vikas",
-    "Joining Date": "27/2/2019"
+    "JoiningDate": "27/2/2019"
   },
   {
+    "id": 106,
     "City": "Kadiri",
     "District": "Ananthapur",
     "College": "Government Degree College",
     "Student": "Nani",
-    "Joining Date": "22/2/2019"
+    "JoiningDate": "22/2/2019"
   },
   {
+    "id": 107,
     "City": "Nandyal",
     "District": "Kurnool",
     "College": "SPY Reddy Womens College",
     "Student": "Swathi",
-    "Joining Date": "25/2/2019"
+    "JoiningDate": "25/2/2019"
   },
   {
+    "id": 108,
     "City": "Kurnool",
     "District": "Kurnool",
     "College": "RGM Engineering College",
     "Student": "Rekha",
-    "Joining Date": "24/2/2019"
+    "JoiningDate": "24/2/2019"
   },
   {
+    "id": 109,
     "City": "Ananthapur",
     "District": "Ananthapur",
     "College": "Kotla Engineering College",
     "Student": "Swapna",
-    "Joining Date": "26/2/2019"
+    "JoiningDate": "26/2/2019"
   },
   {
+    "id": 110,
     "City": "Chittor",
     "District": "Chittor",
     "College": "Chittor Medical College",
     "Student": "Bhaskar",
-    "Joining Date": "27/2/2019"
+    "JoiningDate": "27/2/2019"
   },
   {
+    "id": 111,
     "City": "Bhimavaram",
     "District": "West Godavari",
     "College": "Bhimavaram Medical College",
     "Student": "Bhavana",
-    "Joining Date": "22/2/2019"
+    "JoiningDate": "22/2/2019"
   },
   {
+    "id": 112,
     "City": "Tanuku",
     "District": "West Godavari",
     "College": "Government Degree College",
     "Student": "Lasya",
-    "Joining Date": "25/2/2019"
+    "JoiningDate": "25/2/2019"
   },
   {
+    "id": 113,
     "City": "Rajamundry",
     "District": "East Godavari",
     "College": "Mary's Degree College",
     "Student": "Bibal",
-    "Joining Date": "24/2/2019"
+    "JoiningDate": "24/2/2019"
   },
   {
+    "id": 114,
     "City": "Bheemli",
     "District": "Vishakapatnam",
     "College": "Raghava Medical College",
     "Student": "Karanthi",
-    "Joining Date": "26/2/2019"
+    "JoiningDate": "26/2/2019"
   },
   {
+    "id": 115,
     "City": "Vishakapatnam",
     "District": "Vishakapatnam",
     "College": "Vishakapatnam DegreeCollege",
     "Student": "Karthik 27/2/2019",
-    "Joining Date": ""
+    "JoiningDate": ""
   },
   {
+    "id": 116,
     "City": "Anakapalle",
     "District": "Vishakapatnam",
     "College": "Anakapalle Medical College",
     "Student": "Noor Basha",
-    "Joining Date": "22/2/2019"
+    "JoiningDate": "22/2/2019"
   },
   {
+    "id": 117,
     "City": "Rajamundry",
     "District": "East Godavari",
     "College": "Mary's Degree College",
     "Student": "Koteshwar",
-    "Joining Date": "25/2/2019"
+    "JoiningDate": "25/2/2019"
   },
   {
+    "id": 118,
     "City": "Chittor",
     "District": "Chittor",
     "College": "Chittor Medical College",
     "Student": "Mahesh",
-    "Joining Date": "24/2/2019"
+    "JoiningDate": "24/2/2019"
   },
   {
+    "id": 119,
     "City": "Vishakapatnam",
     "District": "Vishakapatnam",
     "College": "Vishakapatnam DegreeCollege",
     "Student": "Mohit",
-    "Joining Date": "26/2/2019"
+    "JoiningDate": "26/2/2019"
   },
   {
+    "id": 120,
     "City": "Nandyal",
     "District": "Kurnool",
     "College": "SPY Reddy Womens College",
     "Student": "Meghana",
-    "Joining Date": "27/2/2019"
+    "JoiningDate": "27/2/2019"
   },
   {
+    "id": 101,
     "City": "Kurnool",
     "District": "Kurnool",
     "College": "Pullareddy Engineering College",
     "Student": "Dany",
-    "Joining Date": "22/2/2019"
+    "JoiningDate": "22/2/2019"
   },
   {
+    "id": 121,
     "City": "Kurnool",
     "District": "Kurnool",
     "College": "Pullareddy Engineering College",
     "Student": "Koshal",
-    "Joining Date": "22/2/2019"
+    "JoiningDate": "22/2/2019"
   },
   {
+    "id": 122,
     "City": "Kurnool",
     "District": "Kurnool",
     "College": "Pullareddy Engineering College",
     "Student": "Harshini",
-    "Joining Date": "22/2/2019"
+    "JoiningDate": "22/2/2019"
   },
   {
+    "id": 123,
     "City": "Allagada",
     "District": "Kurnool",
     "College": "Government Degree College",
     "Student": "Kanth",
-    "Joining Date": "24/2/2019"
+    "JoiningDate": "24/2/2019"
   },
   {
+    "id": 124,
     "City": "Allagada",
     "District": "Kurnool",
     "College": "Government Degree College",
     "Student": "Karuna",
-    "Joining Date": "24/2/2019"
+    "JoiningDate": "24/2/2019"
   },
   {
+    "id": 125,
     "City": "Allagada",
     "District": "Kurnool",
     "College": "Government Degree College",
     "Student": "Raki",
-    "Joining Date": "24/2/2019"
+    "JoiningDate": "24/2/2019"
   },
   {
+    "id": 126,
     "City": "Allagada",
     "District": "Kurnool",
     "College": "Government Degree College",
     "Student": "Kiran",
-    "Joining Date": "24/2/2019"
+    "JoiningDate": "24/2/2019"
   },
   {
+    "id": 127,
     "City": "Ananthapur",
     "District": "Ananthapur",
     "College": "Kotla Engineering College",
     "Student": "Amala",
-    "Joining Date": "26/2/2019"
+    "JoiningDate": "26/2/2019"
   }
 ];
 
+export const graphData = {
+  "Karnool": {
+    "22/2/2019": {
+      "id": 201,
+      "count": 20,
+    },
+    "23/2/2019": {
+      "id": 202,
+      "count": 60,
+    },
+    "24/2/2019": {
+      "id": 203,
+      "count": 10,
+    },
+    "25/2/2019": {
+      "id": 204,
+      "count": 70,
+    },
+    "26/2/2019": {
+      "id": 201,
+      "count": 20,
+    },
+  },
+  "Ananthapur": {
+    "22/2/2019": {
+      "id": 301,
+      "count": 10,
+    },
+    "23/2/2019": {
+      "id": 302,
+      "count": 70,
+    },
+    "24/2/2019": {
+      "id": 303,
+      "count": 25,
+    },
+    "25/2/2019": {
+      "id": 304,
+      "count": 40,
+    },
+    "26/2/2019": {
+      "id": 201,
+      "count": 20,
+    },
+  },
+};
 
 
 
-// City, District, College,, Student, Joining Date
+
+
+// City, District, College,, Student, JoiningDate
 // Kurnool, Kurnool, Pullareddy Engineering College,, Rakesh, 22/2/2019
 // Gooty Ananthapur, Saint Mary Degree College,, Mouli, 25/2/2019
 // Allagada, Kurnool, Government Degree College,, Ravi, 24/2/2019
