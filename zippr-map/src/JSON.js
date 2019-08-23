@@ -272,6 +272,34 @@ export const graphData = {
   },
 };
 
+export const lineData = {
+  "22022019": {
+    "Ananthapur": 15,
+    "Karnool": 70,
+    "Vishakapatnam": 10,
+  },
+  "23022019": {
+    "Ananthapur": 30,
+    "Karnool": 55,
+    "Vishakapatnam": 60,
+  },
+  "24022019": {
+    "Ananthapur": 50,
+    "Karnool": 50,
+    "Vishakapatnam": 30,
+  },
+  "25022019": {
+    "Ananthapur": 60,
+    "Karnool": 20,
+    "Vishakapatnam": 20,
+  },
+  "26022019": {
+    "Ananthapur": 65,
+    "Karnool": 10,
+    "Vishakapatnam": 40,
+  }
+}
+
 
 
 
